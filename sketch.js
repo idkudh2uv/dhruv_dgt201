@@ -29,7 +29,7 @@ let amplitude; // Stores amplitude level for visual effects (unused)
 
 function preload() {
     // Preloads the sound file before the sketch runs to prevent loading delays
-    sound = loadSound('tkn.mp3'); // Load the sound file 'tkn.mp3'
+    sound = loadSound('tkn.mp3'); // Load the sound file 'nota.mp3'
 }
 
 function setup() {
